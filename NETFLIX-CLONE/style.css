@@ -56,3 +56,10 @@ header {
 .netflixLogo img {  
   height: 35px;     
 }
+#logo {
+  color: #E50914;  
+  margin: 0; 
+  padding: 0; 
+}
+
+
